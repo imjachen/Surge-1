@@ -1,0 +1,6 @@
+#!name=15wADguard
+#!desc=NobyDa 15万去广告合集
+#!system=ios
+
+[rule]
+DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Huge_AD_rules.list,REJECT
